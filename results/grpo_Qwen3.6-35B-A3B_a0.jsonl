@@ -1,0 +1,5 @@
+{"model": "Qwen/Qwen3.6-35B-A3B", "alpha": 0.0, "step": 0, "coop": 0.8125}
+{"model": "Qwen/Qwen3.6-35B-A3B", "alpha": 0.0, "step": 25, "coop": 0.8125}
+{"model": "Qwen/Qwen3.6-35B-A3B", "alpha": 0.0, "step": 50, "coop": 0.65625}
+{"model": "Qwen/Qwen3.6-35B-A3B", "alpha": 0.0, "step": 75, "coop": 0.8125}
+{"model": "Qwen/Qwen3.6-35B-A3B", "alpha": 0.0, "step": 100, "coop": 0.78125}
