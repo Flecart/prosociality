@@ -12,9 +12,12 @@ from dataclasses import dataclass, field
 
 import numpy as np
 
-from .agents import TabularQLearner
 from .envs import RepeatedGame, make_game
 from .rewards import RewardTransform
+
+# default learning rate per learner ("lr" left at the tabular default for
+# backward compatibility; SGD on the DQN net wants a much smaller step).
+_DEFAULT_LR = {"tabular": 0.1, "dqn": 1e-3}
 
 
 @dataclass
@@ -37,15 +40,29 @@ def _gini(x: np.ndarray) -> float:
 
 
 def train_selfplay(game_name: str, transform: RewardTransform, horizon=1,
-                   episodes=4000, lr=0.1, gamma=0.9, seed=0,
-                   eval_frac=0.1, game_kwargs=None, agent_kwargs=None) -> TrainResult:
+                   episodes=4000, lr=None, gamma=0.9, seed=0,
+                   eval_frac=0.1, game_kwargs=None, agent_kwargs=None,
+                   learner="tabular", device="cpu") -> TrainResult:
+    """Self-play loop. `learner="tabular"` (default) uses the numpy IQL table;
+    `learner="dqn"` swaps in the torch deep-Q learner (`device="cuda"` to run on
+    GPU). Both expose the same act/update/set_epsilon API, so the loop below is
+    identical for either."""
     rng = np.random.default_rng(seed)
     base = make_game(game_name, **(game_kwargs or {}))
     env = RepeatedGame(base, horizon=horizon)
     n = env.n_agents
-    agents = [TabularQLearner(env.n_states, env.n_actions, lr=lr, gamma=gamma,
-                              rng=rng, **(agent_kwargs or {}))
-              for _ in range(n)]
+    if lr is None:
+        lr = _DEFAULT_LR[learner]
+    if learner == "tabular":
+        from .agents import TabularQLearner as AgentCls
+        akw = dict(lr=lr, gamma=gamma, rng=rng)
+    elif learner == "dqn":
+        from .agents import DQNLearner as AgentCls
+        akw = dict(lr=lr, gamma=gamma, rng=rng, device=device)
+    else:
+        raise ValueError(f"unknown learner {learner!r}")
+    akw.update(agent_kwargs or {})
+    agents = [AgentCls(env.n_states, env.n_actions, **akw) for _ in range(n)]
     coop_idx = base.coop_action
 
     coop_curve = np.zeros(episodes)

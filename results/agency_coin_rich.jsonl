@@ -1,0 +1,11 @@
+{"kind": "matrix", "ptype": "F", "strategy": "respect", "focal_raw": 15.761, "focal_raw_std": 4.8933845478700455}
+{"kind": "matrix", "ptype": "F", "strategy": "exploit", "focal_raw": 12.602666666666666, "focal_raw_std": 2.833394822862183}
+{"kind": "matrix", "ptype": "K", "strategy": "respect", "focal_raw": 9.357833333333334, "focal_raw_std": 3.421956843516424}
+{"kind": "matrix", "ptype": "K", "strategy": "exploit", "focal_raw": 17.0585, "focal_raw_std": 3.69166779157244}
+{"kind": "learn", "alpha": 0.0, "learned_raw": 4.54, "learned_raw_std": 0.8788629017087932, "learned_coop": 0.8372146485050896, "learned_coop_std": 0.023265897912376956}
+{"kind": "learn", "alpha": 0.15, "learned_raw": 3.96, "learned_raw_std": 1.1937964650642923, "learned_coop": 0.84085097099734, "learned_coop_std": 0.016279355162245865}
+{"kind": "learn", "alpha": 0.3, "learned_raw": 4.029999999999999, "learned_raw_std": 1.0793979803575695, "learned_coop": 0.8420822323531301, "learned_coop_std": 0.008815377734705835}
+{"kind": "learn", "alpha": 0.45, "learned_raw": 4.135000000000001, "learned_raw_std": 0.590042371359888, "learned_coop": 0.8596398905460438, "learned_coop_std": 0.015833176328629642}
+{"kind": "learn", "alpha": 0.6, "learned_raw": 3.7099999999999995, "learned_raw_std": 0.8886225295365857, "learned_coop": 0.8618787611102274, "learned_coop_std": 0.022928786427673535}
+{"kind": "learn", "alpha": 0.75, "learned_raw": 3.825, "learned_raw_std": 0.4260281680828159, "learned_coop": 0.8484137106085635, "learned_coop_std": 0.02150590297388359}
+{"kind": "learn", "alpha": 0.9, "learned_raw": 3.6149999999999998, "learned_raw_std": 0.6604165352260648, "learned_coop": 0.8413696518778628, "learned_coop_std": 0.01138396923142926}
