@@ -1,2 +1,9 @@
 __pycache__/
 outputs/
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.out
+*.pdf

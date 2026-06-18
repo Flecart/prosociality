@@ -15,7 +15,11 @@ from __future__ import annotations
 
 import numpy as np
 
-from .interdependence import effective_utilities, symmetric_matrix
+from .interdependence import (
+    effective_utilities,
+    normalized_effective_utilities,
+    symmetric_matrix,
+)
 
 
 class RewardTransform:
@@ -37,18 +41,28 @@ class Selfish(RewardTransform):
 
 
 class Interdependence(RewardTransform):
-    """Symmetric Bergstrom coupling with off-diagonal alpha."""
+    """Symmetric Bergstrom coupling with off-diagonal alpha.
 
-    def __init__(self, n_agents: int, alpha: float):
+    normalize=True row-normalizes (I-A)^{-1} so effective rewards keep the raw
+    payoff *scale* (isolating coupling structure from magnitude); this is the
+    fair-comparison default for value-based spatial learners. normalize=False is
+    the raw Bergstrom transform used in the matrix-game experiments.
+    """
+
+    def __init__(self, n_agents: int, alpha: float, normalize: bool = False):
         self.alpha = alpha
+        self.normalize = normalize
         self.A = symmetric_matrix(n_agents, alpha)
 
     def __call__(self, pi):
+        if self.normalize:
+            return normalized_effective_utilities(self.A, pi)
         return effective_utilities(self.A, pi)
 
     @property
     def label(self):
-        return f"interdep(a={self.alpha:g})"
+        tag = "n" if self.normalize else ""
+        return f"interdep{tag}(a={self.alpha:g})"
 
 
 class RewardShaping(RewardTransform):
@@ -70,11 +84,15 @@ class RewardShaping(RewardTransform):
 class GraphInterdependence(RewardTransform):
     """Bergstrom coupling with an arbitrary (e.g. non-complete) matrix A."""
 
-    def __init__(self, A: np.ndarray, label: str = "graph-interdep"):
+    def __init__(self, A: np.ndarray, label: str = "graph-interdep",
+                 normalize: bool = False):
         self.A = np.asarray(A, dtype=float)
         self._label = label
+        self.normalize = normalize
 
     def __call__(self, pi):
+        if self.normalize:
+            return normalized_effective_utilities(self.A, pi)
         return effective_utilities(self.A, pi)
 
     @property

@@ -1,0 +1,480 @@
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 4, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 5, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 9, "coop_rate": 0.028333333333333332, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 10, "coop_rate": 0.023333333333333334, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 3, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 12, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 14, "coop_rate": 0.02, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 15, "coop_rate": 0.02666666666666667, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 13, "coop_rate": 0.04, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 16, "coop_rate": 0.023333333333333334, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 17, "coop_rate": 0.03166666666666667, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 19, "coop_rate": 0.03, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 18, "coop_rate": 0.02, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 0, "coop_rate": 0.025, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 1, "coop_rate": 0.015, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 8, "coop_rate": 0.023333333333333334, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 6, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 2, "coop_rate": 0.02, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 7, "coop_rate": 0.015, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 2, "seed": 11, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 1, "coop_rate": 0.015, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 0, "coop_rate": 0.98, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 4, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 2, "coop_rate": 0.9816666666666667, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 3, "coop_rate": 0.9816666666666667, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 12, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 13, "coop_rate": 0.97, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 14, "coop_rate": 0.02, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 15, "coop_rate": 0.9833333333333333, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 16, "coop_rate": 0.9883333333333333, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 17, "coop_rate": 0.9816666666666667, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 18, "coop_rate": 0.02, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 5, "coop_rate": 0.9783333333333334, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 6, "coop_rate": 0.9683333333333334, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 7, "coop_rate": 0.9783333333333334, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 9, "coop_rate": 0.9716666666666667, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 11, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 10, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 8, "coop_rate": 0.975, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "fixed", "n": 2, "seed": 19, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 0, "coop_rate": 0.98, "A_final": [[0.0, 0.9404], [0.9404, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 1, "coop_rate": 0.99, "A_final": [[0.0, 0.9404], [0.9404, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 2, "coop_rate": 0.9816666666666667, "A_final": [[0.0, 0.9403], [0.9403, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 3, "coop_rate": 0.9816666666666667, "A_final": [[0.0, 0.9403], [0.9403, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 11, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.9405], [0.9405, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 12, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.9405], [0.9405, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 13, "coop_rate": 0.97, "A_final": [[0.0, 0.9403], [0.9403, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 14, "coop_rate": 0.98, "A_final": [[0.0, 0.9404], [0.9404, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 15, "coop_rate": 0.9833333333333333, "A_final": [[0.0, 0.9402], [0.9402, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 16, "coop_rate": 0.9883333333333333, "A_final": [[0.0, 0.9404], [0.9404, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 0, "coop_rate": 0.025, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 1, "coop_rate": 0.015, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 17, "coop_rate": 0.9816666666666667, "A_final": [[0.0, 0.9404], [0.9404, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 4, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 6, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 2, "coop_rate": 0.02, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 5, "coop_rate": 0.9783333333333334, "A_final": [[0.0, 0.9405], [0.9405, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 7, "coop_rate": 0.015, "A_final": [[0.0, 0.0007], [0.0007, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 9, "coop_rate": 0.9716666666666667, "A_final": [[0.0, 0.94], [0.94, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 8, "coop_rate": 0.975, "A_final": [[0.0, 0.9403], [0.9403, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 10, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.9404], [0.9404, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 3, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 4, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 18, "coop_rate": 0.9716666666666667, "A_final": [[0.0, 0.9403], [0.9403, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 7, "coop_rate": 0.015, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 13, "coop_rate": 0.04, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 14, "coop_rate": 0.02, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 2, "seed": 19, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.9405], [0.9405, 0.0]], "setting": "bootstrap"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 15, "coop_rate": 0.02666666666666667, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 16, "coop_rate": 0.023333333333333334, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 17, "coop_rate": 0.03166666666666667, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 18, "coop_rate": 0.02, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 19, "coop_rate": 0.03, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 5, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 6, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 8, "coop_rate": 0.023333333333333334, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 9, "coop_rate": 0.028333333333333332, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 11, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 10, "coop_rate": 0.023333333333333334, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "selfish", "n": 3, "seed": 12, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 0, "coop_rate": 0.98, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 1, "coop_rate": 0.015, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 2, "coop_rate": 0.9816666666666667, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 3, "coop_rate": 0.9816666666666667, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 4, "coop_rate": 0.985, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 12, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 13, "coop_rate": 0.97, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 14, "coop_rate": 0.02, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 15, "coop_rate": 0.9833333333333333, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 16, "coop_rate": 0.9883333333333333, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 17, "coop_rate": 0.9816666666666667, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 18, "coop_rate": 0.02, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 5, "coop_rate": 0.9783333333333334, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 6, "coop_rate": 0.9683333333333334, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 7, "coop_rate": 0.9783333333333334, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 19, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 8, "coop_rate": 0.975, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 9, "coop_rate": 0.9716666666666667, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 10, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "fixed", "n": 3, "seed": 11, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 0, "coop_rate": 0.98, "A_final": [[0.0, 0.9404, 0.0], [0.9404, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 1, "coop_rate": 0.99, "A_final": [[0.0, 0.9404, 0.0], [0.9404, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 3, "coop_rate": 0.9816666666666667, "A_final": [[0.0, 0.9403, 0.0], [0.9403, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 2, "coop_rate": 0.9816666666666667, "A_final": [[0.0, 0.9403, 0.0], [0.9403, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 7, "coop_rate": 0.015, "A_final": [[0.0, 0.0007, 0.0], [0.0007, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 12, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.9405, 0.0], [0.9405, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 13, "coop_rate": 0.97, "A_final": [[0.0, 0.9403, 0.0], [0.9403, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 14, "coop_rate": 0.98, "A_final": [[0.0, 0.9404, 0.0], [0.9404, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 15, "coop_rate": 0.9833333333333333, "A_final": [[0.0, 0.9402, 0.0], [0.9402, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 16, "coop_rate": 0.9883333333333333, "A_final": [[0.0, 0.9404, 0.0], [0.9404, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 18, "coop_rate": 0.9716666666666667, "A_final": [[0.0, 0.9403, 0.0], [0.9403, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 17, "coop_rate": 0.9816666666666667, "A_final": [[0.0, 0.9404, 0.0], [0.9404, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 4, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 6, "coop_rate": 0.018333333333333333, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 5, "coop_rate": 0.9783333333333334, "A_final": [[0.0, 0.9405, 0.0], [0.9405, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 8, "coop_rate": 0.975, "A_final": [[0.0, 0.9403, 0.0], [0.9403, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 9, "coop_rate": 0.9716666666666667, "A_final": [[0.0, 0.94, 0.0], [0.94, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 10, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.9404, 0.0], [0.9404, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 11, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.9405, 0.0], [0.9405, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "iql", "mode": "collab", "n": 3, "seed": 19, "coop_rate": 0.9766666666666667, "A_final": [[0.0, 0.9405, 0.0], [0.9405, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 0, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 1, "coop_rate": 0.01, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 2, "coop_rate": 0.028333333333333332, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 3, "coop_rate": 0.975, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 11, "coop_rate": 0.013333333333333334, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 9, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 8, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 13, "coop_rate": 0.015, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 12, "coop_rate": 0.02666666666666667, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 14, "coop_rate": 0.02, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 16, "coop_rate": 0.015, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 5, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 6, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 4, "coop_rate": 0.025, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 7, "coop_rate": 0.9633333333333334, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 10, "coop_rate": 0.035, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 17, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 18, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 15, "coop_rate": 0.03, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 2, "seed": 19, "coop_rate": 0.98, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 0, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 1, "coop_rate": 0.01, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 2, "coop_rate": 0.028333333333333332, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 8, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 9, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 10, "coop_rate": 0.035, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 13, "coop_rate": 0.015, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 12, "coop_rate": 0.02666666666666667, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 14, "coop_rate": 0.02, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 15, "coop_rate": 0.03, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 3, "coop_rate": 0.975, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 4, "coop_rate": 0.025, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 11, "coop_rate": 0.013333333333333334, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 5, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 7, "coop_rate": 0.9633333333333334, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 6, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 17, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 16, "coop_rate": 0.015, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 18, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "fixed", "n": 2, "seed": 19, "coop_rate": 0.98, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 1, "coop_rate": 0.01, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 0, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 4, "coop_rate": 0.025, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 8, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0002], [0.0002, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 9, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0001], [0.0001, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 10, "coop_rate": 0.035, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 11, "coop_rate": 0.013333333333333334, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 3, "coop_rate": 0.975, "A_final": [[0.0, 0.9403], [0.9403, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 14, "coop_rate": 0.02, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 2, "coop_rate": 0.028333333333333332, "A_final": [[0.0, 0.0144], [0.0144, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 13, "coop_rate": 0.015, "A_final": [[0.0, 0.0003], [0.0003, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 5, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0001], [0.0001, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 6, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 7, "coop_rate": 0.9633333333333334, "A_final": [[0.0, 0.9402], [0.9402, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 12, "coop_rate": 0.02666666666666667, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 15, "coop_rate": 0.03, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 17, "coop_rate": 0.98, "A_final": [[0.0, 0.9403], [0.9403, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 19, "coop_rate": 0.98, "A_final": [[0.0, 0.9405], [0.9405, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 18, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 2, "seed": 16, "coop_rate": 0.015, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 0, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 2, "coop_rate": 0.028333333333333332, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 7, "coop_rate": 0.9633333333333334, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 8, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 10, "coop_rate": 0.035, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 12, "coop_rate": 0.02666666666666667, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 6, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 9, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 13, "coop_rate": 0.015, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 1, "coop_rate": 0.01, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 11, "coop_rate": 0.013333333333333334, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 5, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 3, "coop_rate": 0.975, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 4, "coop_rate": 0.025, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 15, "coop_rate": 0.03, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 14, "coop_rate": 0.02, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 19, "coop_rate": 0.98, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 18, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 0, "coop_rate": 0.9783333333333334, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 3, "coop_rate": 0.975, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 16, "coop_rate": 0.035, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 2, "coop_rate": 0.028333333333333332, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "selfish", "n": 3, "seed": 17, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 6, "coop_rate": 0.9783333333333334, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 8, "coop_rate": 0.9733333333333334, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 10, "coop_rate": 0.9866666666666667, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 11, "coop_rate": 0.9733333333333334, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 14, "coop_rate": 0.9733333333333334, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 1, "coop_rate": 0.01, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 5, "coop_rate": 0.9866666666666667, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 4, "coop_rate": 0.025, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 9, "coop_rate": 0.9866666666666667, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 15, "coop_rate": 0.99, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 13, "coop_rate": 0.015, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 16, "coop_rate": 0.035, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 7, "coop_rate": 0.9633333333333334, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 17, "coop_rate": 0.98, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 19, "coop_rate": 0.98, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 12, "coop_rate": 0.975, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 3, "coop_rate": 0.975, "A_final": [[0.0, 0.9403, 0.0], [0.9403, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "fixed", "n": 3, "seed": 18, "coop_rate": 0.9666666666666667, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 4, "coop_rate": 0.025, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 6, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 5, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0001, 0.0], [0.0001, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 9, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0001, 0.0], [0.0001, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 11, "coop_rate": 0.013333333333333334, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 0, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 12, "coop_rate": 0.02666666666666667, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 2, "coop_rate": 0.028333333333333332, "A_final": [[0.0, 0.0144, 0.0], [0.0144, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 13, "coop_rate": 0.015, "A_final": [[0.0, 0.0003, 0.0], [0.0003, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 1, "coop_rate": 0.01, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 8, "coop_rate": 0.021666666666666667, "A_final": [[0.0, 0.0002, 0.0], [0.0002, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 14, "coop_rate": 0.02, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 15, "coop_rate": 0.03, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 7, "coop_rate": 0.9633333333333334, "A_final": [[0.0, 0.9402, 0.0], [0.9402, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 16, "coop_rate": 0.035, "A_final": [[0.0, 0.0951, 0.0], [0.0951, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 17, "coop_rate": 0.98, "A_final": [[0.0, 0.9403, 0.0], [0.9403, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 10, "coop_rate": 0.035, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 19, "coop_rate": 0.98, "A_final": [[0.0, 0.9405, 0.0], [0.9405, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 1, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 3, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 5, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 7, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "dqn", "mode": "collab", "n": 3, "seed": 18, "coop_rate": 0.016666666666666666, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 8, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 11, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 10, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 4, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 0, "coop_rate": 0.0033333333333333335, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 2, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 12, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 14, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 13, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 6, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 17, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 16, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 9, "coop_rate": 1.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 19, "coop_rate": 1.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 18, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 2, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 4, "coop_rate": 0.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 3, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 6, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 2, "seed": 15, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 7, "coop_rate": 0.0033333333333333335, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 10, "coop_rate": 0.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 9, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 11, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 0, "coop_rate": 0.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 1, "coop_rate": 0.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 12, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 13, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 14, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 5, "coop_rate": 0.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 17, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 8, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 19, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 16, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 18, "coop_rate": 0.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 4, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 3, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 2, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "fixed", "n": 2, "seed": 15, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 8, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 7, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 10, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 1, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 6, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 0, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 9, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 12, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 11, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 5, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 15, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 16, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 17, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 1, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 19, "coop_rate": 0.9983333333333333, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 2, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 13, "coop_rate": 0.0033333333333333335, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 14, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 5, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 3, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 4, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 7, "coop_rate": 1.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 9, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 6, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 0, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 10, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 2, "seed": 18, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 8, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 13, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 16, "coop_rate": 0.0033333333333333335, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 15, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 17, "coop_rate": 1.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 0, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 18, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 11, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 2, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 12, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 3, "coop_rate": 0.9983333333333333, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 4, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 14, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 5, "coop_rate": 0.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 6, "coop_rate": 0.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 8, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 7, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "selfish", "n": 3, "seed": 19, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 1, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 10, "coop_rate": 0.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 12, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 13, "coop_rate": 0.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 15, "coop_rate": 0.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 18, "coop_rate": 0.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 16, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 17, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 1, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 9, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 3, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 11, "coop_rate": 0.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 2, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 14, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 5, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 4, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "fixed", "n": 3, "seed": 19, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 0, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 6, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 7, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 10, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 8, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 0, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 1, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 12, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 3, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 14, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 4, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 15, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 2, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 6, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 5, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 7, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 8, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 9, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 18, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 10, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 11, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 13, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 12, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 14, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 15, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 16, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 17, "coop_rate": 1.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 19, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 9, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 19, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 2, "seed": 18, "coop_rate": 0.0, "A_final": [[0.0, 0.0], [0.0, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 1, "coop_rate": 0.9983333333333333, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 2, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 11, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 0, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 4, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 6, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 7, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 3, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 13, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 9, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 8, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 12, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 11, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 14, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 13, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 5, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 15, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 19, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 17, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 18, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 10, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 16, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 1, "coop_rate": 0.9983333333333333, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 0, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 4, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "a2c", "mode": "collab", "n": 3, "seed": 17, "coop_rate": 0.9983333333333333, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 2, "seed": 16, "coop_rate": 1.0, "A_final": [[0.0, 0.8], [0.8, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 5, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 6, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 2, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 7, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 10, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 11, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 12, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 3, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 15, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 16, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 18, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 19, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 0, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 8, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 17, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 1, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 9, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 3, "coop_rate": 1.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 5, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 13, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 6, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 2, "seed": 14, "coop_rate": 1.0, "A_final": [[0.0, 0.9406], [0.9406, 0.0]], "setting": "bootstrap"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 7, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 9, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 12, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 10, "coop_rate": 1.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 4, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 13, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 2, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 15, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 18, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 17, "coop_rate": 1.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 19, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 8, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 11, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 1, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 2, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 4, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 5, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 14, "coop_rate": 0.0016666666666666668, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "selfish", "n": 3, "seed": 16, "coop_rate": 0.0, "A_final": [[0.0, 0.0, 0.0], [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 7, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 0, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 6, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 11, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 12, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 10, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 13, "coop_rate": 0.9983333333333333, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 3, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 16, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 18, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 19, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 8, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 0, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 9, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 1, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 2, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 17, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 4, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 14, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "fixed", "n": 3, "seed": 15, "coop_rate": 1.0, "A_final": [[0.0, 0.45, 0.45], [0.45, 0.0, 0.45], [0.45, 0.45, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 5, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 6, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 8, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 10, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 11, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 13, "coop_rate": 0.9983333333333333, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 3, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 7, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 16, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 12, "coop_rate": 0.9983333333333333, "A_final": [[0.0, 0.9405, 0.0], [0.9405, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 17, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 18, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 9, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 14, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 15, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}
+{"learner": "ppo", "mode": "collab", "n": 3, "seed": 19, "coop_rate": 1.0, "A_final": [[0.0, 0.9406, 0.0], [0.9406, 0.0, 0.0], [0.0, 0.0, 0.0]], "setting": "freerider"}

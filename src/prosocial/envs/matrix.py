@@ -68,6 +68,43 @@ class StagHunt(MatrixGame):
         return np.array([self._m[i, j], self._m[j, i]], dtype=float)
 
 
+class StagHuntN(MatrixGame):
+    """N-player threshold stag hunt -- the normal-form image of the log-hunt.
+
+    Each agent chooses Stag (0, cooperate) or Hare (1, safe). The Stag pays
+    ``stag`` to *each* stagger only if at least ``min_staggers`` agents choose
+    Stag together (a heavy log needs >=2 lifters); a lone stagger gets 0 (the
+    wasted lift). Hare pays the safe ``hare`` regardless. With stag>hare>0 the
+    all-Stag profile is payoff-dominant but risk-dominated by all-Hare, so
+    independent learners are prone to the safe Hare equilibrium -- the failure
+    that structural interdependence must overcome (one-shot, no repetition).
+
+    coop_action = 0 (Stag). A pairwise joint-Stag between i and j (both stag in a
+    successful hunt) is the cooperation event the collaboration-based A reads.
+    """
+
+    name = "StagHuntN"
+    coop_action = 0
+
+    def __init__(self, n_agents=3, stag=5.0, hare=2.0, min_staggers=2):
+        self.n_agents = n_agents
+        self.n_actions = 2
+        self.stag = stag
+        self.hare = hare
+        self.min_staggers = min_staggers
+
+    def payoffs(self, actions) -> np.ndarray:
+        actions = np.asarray(actions)
+        staggers = (actions == 0)
+        n_stag = int(staggers.sum())
+        pi = np.full(self.n_agents, self.hare, dtype=float)
+        if n_stag >= self.min_staggers:
+            pi[staggers] = self.stag
+        else:
+            pi[staggers] = 0.0   # lone/insufficient staggers waste the turn
+        return pi
+
+
 class PublicGoodsGame(MatrixGame):
     name = "PGG"
     coop_action = 1  # 1 = contribute, 0 = free-ride
@@ -126,6 +163,7 @@ class RepeatedGame:
 GAMES = {
     "IPD": IteratedPrisonersDilemma,
     "StagHunt": StagHunt,
+    "StagHuntN": StagHuntN,
     "PGG": PublicGoodsGame,
 }
 

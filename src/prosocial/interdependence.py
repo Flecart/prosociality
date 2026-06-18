@@ -36,6 +36,30 @@ def effective_utilities(A: np.ndarray, pi: np.ndarray) -> np.ndarray:
     return np.linalg.solve(np.eye(n) - A, pi)
 
 
+def normalized_effective_utilities(A: np.ndarray, pi: np.ndarray) -> np.ndarray:
+    """Row-normalized Bergstrom transform: each row of (I-A)^{-1} sums to 1.
+
+    The raw transform U=(I-A)^{-1}pi inflates reward *magnitude* as the coupling
+    grows (the Neumann sum sum_k A^k pi), which independently destabilizes a
+    value-based learner and confounds "more interdependence" with "larger
+    rewards." Dividing each agent's effective reward by its row sum keeps the
+    *structure* (the relative weight agent i places on each j) while holding the
+    total caring weight fixed at 1: a constant payoff maps to itself, the selfish
+    case (A=0) is the identity, and full coupling tends to the social-welfare
+    mean. This isolates whose-welfare-I-weight from how-large-the-reward-is.
+    """
+    A = np.asarray(A, dtype=float)
+    pi = np.asarray(pi, dtype=float)
+    n = A.shape[0]
+    rho = spectral_radius(A)
+    if rho >= 1.0:
+        raise ValueError(f"spectral radius {rho:.4f} >= 1: ill-posed (need rho(A) < 1)")
+    M = np.linalg.solve(np.eye(n) - A, np.eye(n))   # (I-A)^{-1}
+    row_sums = M.sum(axis=1, keepdims=True)
+    M = M / row_sums
+    return M @ pi
+
+
 def symmetric_matrix(n: int, alpha: float) -> np.ndarray:
     """Symmetric relational matrix: every off-diagonal entry equals alpha."""
     if not 0.0 <= alpha < 1.0:
