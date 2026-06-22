@@ -24,16 +24,32 @@ import re
 import subprocess
 from collections import defaultdict
 
-GRES_RE = re.compile(r"gpu:([^:]+):(\d+)")            # gpu:<type>:<count>[(...)]
+# Gres GPU spec is either typed ('gpu:b200:8(IDX:0-7)') or bare ('gpu:4'); the
+# type group is optional. On this cluster Gres is always bare ('gpu:4') and the
+# GPU model lives in node features instead, so we fall back to that.
+GRES_RE = re.compile(r"gpu:(?:([^:\s(]+):)?(\d+)")    # gpu:[<type>:]<count>[(...)]
 ALLOC_RE = re.compile(r"gres/gpu=(\d+)")              # AllocTRES gpu count (no type)
+# Node features that are not GPU models, so we can pick the model out of the rest.
+FEAT_SKIP = re.compile(r"^(gpu|thp_|nvidia_)")
 UNAVAIL = ("DOWN", "DRAIN", "DRNG", "NO_RESPOND", "FAIL", "MAINT", "INVAL", "POWER")
 
 
-def gpus(field: str) -> dict[str, int]:
-    """type -> count from a Gres field like 'gpu:b200:8(IDX:0-7)'."""
+def gpu_type_from_features(feat: str) -> str:
+    """Best-guess GPU model from a node feature list like 'gh,gpu,thp_never,...'."""
+    for tok in (feat or "").split(","):
+        tok = tok.strip()
+        if tok and not FEAT_SKIP.match(tok):
+            return tok
+    return "gpu"
+
+
+def gpus(field: str, default_type: str = "gpu") -> dict[str, int]:
+    """type -> count from a Gres field like 'gpu:b200:8(IDX:0-7)' or 'gpu:4'.
+
+    Bare entries with no embedded type are attributed to default_type."""
     out: dict[str, int] = defaultdict(int)
     for typ, n in GRES_RE.findall(field or ""):
-        out[typ] += int(n)
+        out[typ or default_type] += int(n)
     return out
 
 
@@ -53,7 +69,8 @@ def parse_nodes():
     for line in raw.splitlines():
         kv = dict(re.findall(r"(\w+)=(\S+)", line))
         state = kv.get("State", "")
-        total = gpus(kv.get("Gres", ""))
+        feat = kv.get("ActiveFeatures") or kv.get("AvailableFeatures") or ""
+        total = gpus(kv.get("Gres", ""), gpu_type_from_features(feat))
         m = ALLOC_RE.search(kv.get("AllocTRES", ""))
         alloc = int(m.group(1)) if m else 0
         types = list(total)
